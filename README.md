@@ -1,5 +1,2 @@
 # IBM-BIOMEC---Murilo
-Disciplina de Biomecânica IBM 
-23
-2323
-2
+Disciplina de Biomecânica IBM
